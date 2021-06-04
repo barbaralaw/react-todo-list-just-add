@@ -13,6 +13,7 @@ const Header = (props) => {
   );
 };
 
+// -- Note: headerStyle uses camelCase because of JSX -- 
 // create headerStyle object to be used on the h1
 const headerStyle = {
   fontSize: "40px",
